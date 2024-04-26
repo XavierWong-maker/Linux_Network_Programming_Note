@@ -120,7 +120,7 @@ int main(int argc, char const *argv[])
 
 ### 3.2 使用步骤
 
-<img src="https://github.com/XavierWong-maker/Linux_Network_Programming/raw/main/assets/image-20230813142404652.png" alt="image-20230813142404652" style="zoom: 80%;" /> 
+<img src="assets/image-20230813142404652.png" alt="image-20230813142404652" style="zoom: 80%;" /> 
 
 ### 3.3 相关数据类型及操作
 
